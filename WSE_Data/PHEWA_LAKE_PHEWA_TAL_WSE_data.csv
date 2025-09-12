@@ -1,0 +1,13 @@
+datetime,wse,is_near_outlier_wse,is_far_outlier_wse
+2023-12-03 03:45:27,794.663,False,False
+2023-12-03 03:45:27,797.596,False,False
+2023-12-24 00:30:32,796.138,False,False
+2024-02-03 18:00:43,794.165,False,False
+2024-02-24 14:45:48,792.417,False,False
+2024-05-18 01:46:05,796.381,False,False
+2024-10-31 23:52:43,795.162,False,False
+2024-10-31 23:53:03,795.182,False,False
+2024-11-21 20:31:50,793.905,False,False
+2024-12-12 17:16:54,793.992,False,False
+2025-02-13 07:32:07,794.567,False,False
+2025-03-06 04:17:11,802.947,False,True
